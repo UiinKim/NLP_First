@@ -8,4 +8,4 @@ https://losskatsu.github.io/programming/pyenv/#5-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA
 
 vim : 텍스트 편집기(파이썬 파일 생성)
 esc누른 후 :wq  저장 후 종료
-
+mkdir : 새 폴더 생성
